@@ -1,6 +1,310 @@
-{
-  "version": 1,
-  "updatedAt": "2026-02-13T00:00:00Z",
-  "menuFile": "menu-2026-02.json",
-  "minAppBuild": 1
-}
+[
+  {
+    "date": "2026-02-01",
+    "dayName": "Çarşamba",
+    "soup": "Brokoli Çorbası",
+    "main": "Kıymalı Ispanak",
+    "side": "Yoğurt",
+    "dessert": "Muz",
+    "calories": 640,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-02",
+    "dayName": "Perşembe",
+    "soup": "Mercimek Çorbası",
+    "main": "Nohutlu Tavuk",
+    "side": "Arpa Şehriye Pilavı",
+    "dessert": "İrmik Helvası",
+    "calories": 710,
+    "allergens": ["Gluten", "Süt"],
+    "notes": "Helva tarçınla servis edilir."
+  },
+  {
+    "date": "2026-02-03",
+    "dayName": "Cuma",
+    "soup": "Tarhana Çorbası",
+    "main": "Tavuk Sote",
+    "side": "Bulgur Pilavı",
+    "dessert": "Sütlaç",
+    "calories": 680,
+    "allergens": ["Süt", "Gluten"],
+    "notes": "Ana yemek hafif baharatlıdır."
+  },
+  {
+    "date": "2026-02-04",
+    "dayName": "Cumartesi",
+    "soup": "Mercimek Çorbası",
+    "main": "Izgara Köfte",
+    "side": "Patates Kızartması",
+    "dessert": "Ayran",
+    "calories": 750,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-05",
+    "dayName": "Pazar",
+    "soup": "Ezogelin Çorbası",
+    "main": "Tavuk Döner",
+    "side": "Pilav",
+    "dessert": "Komposto",
+    "calories": 720,
+    "allergens": ["Gluten"],
+    "notes": "Döner ekstra sosu ile servis edilir."
+  },
+  {
+    "date": "2026-02-06",
+    "dayName": "Pazartesi",
+    "soup": "Sebze Çorbası",
+    "main": "Karnıyarık",
+    "side": "Cacık",
+    "dessert": "Meyve",
+    "calories": 650,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-07",
+    "dayName": "Salı",
+    "soup": "Yayla Çorbası",
+    "main": "Balık Tava",
+    "side": "Yeşil Salata",
+    "dessert": "Limonata",
+    "calories": 600,
+    "allergens": ["Balık", "Süt", "Gluten"],
+    "notes": "Balık taze olarak hazırlanmıştır."
+  },
+  {
+    "date": "2026-02-08",
+    "dayName": "Çarşamba",
+    "soup": "Domates Çorbası",
+    "main": "Et Sote",
+    "side": "Makarna",
+    "dessert": "Kazandibi",
+    "calories": 800,
+    "allergens": ["Süt", "Gluten", "Yumurta"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-09",
+    "dayName": "Perşembe",
+    "soup": "Toyga Çorbası",
+    "main": "Tavuk Şiş",
+    "side": "Bulgur Pilavı",
+    "dessert": "Mevsim Meyveleri",
+    "calories": 670,
+    "allergens": ["Süt", "Gluten"],
+    "notes": "Tavuk şiş ızgara edilmiştir."
+  },
+  {
+    "date": "2026-02-10",
+    "dayName": "Cuma",
+    "soup": "Düğün Çorbası",
+    "main": "Tavuk Kapama",
+    "side": "Nohut",
+    "dessert": "Revani",
+    "calories": 780,
+    "allergens": ["Süt", "Gluten", "Yumurta", "Fındık"],
+    "notes": "Revani fındık ile süslenmiştir."
+  },
+  {
+    "date": "2026-02-11",
+    "dayName": "Çarşamba",
+    "soup": "Brokoli Çorbası",
+    "main": "Kıymalı Ispanak",
+    "side": "Yoğurt",
+    "dessert": "Muz",
+    "calories": 640,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-12",
+    "dayName": "Perşembe",
+    "soup": "Mercimek Çorbası",
+    "main": "Nohutlu Tavuk",
+    "side": "Arpa Şehriye Pilavı",
+    "dessert": "İrmik Helvası",
+    "calories": 710,
+    "allergens": ["Gluten", "Süt"],
+    "notes": "Helva tarçınla servis edilir."
+  },
+  {
+    "date": "2026-02-13",
+    "dayName": "Cuma",
+    "soup": "TESSSSTT",
+    "main": "Tavuk Sote",
+    "side": "Bulgur Pilavı",
+    "dessert": "Sütlaç",
+    "calories": 680,
+    "allergens": ["Süt", "Gluten"],
+    "notes": "Ana yemek hafif baharatlıdır."
+  },
+  {
+    "date": "2026-02-14",
+    "dayName": "Cumartesi",
+    "soup": "Mercimek Çorbası",
+    "main": "Izgara Köfte",
+    "side": "Patates Kızartması",
+    "dessert": "Ayran",
+    "calories": 750,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-15",
+    "dayName": "Pazar",
+    "soup": "Ezogelin Çorbası",
+    "main": "Tavuk Döner",
+    "side": "Pilav",
+    "dessert": "Komposto",
+    "calories": 720,
+    "allergens": ["Gluten"],
+    "notes": "Döner ekstra sosu ile servis edilir."
+  },
+  {
+    "date": "2026-02-16",
+    "dayName": "Pazartesi",
+    "soup": "Sebze Çorbası",
+    "main": "Karnıyarık",
+    "side": "Cacık",
+    "dessert": "Meyve",
+    "calories": 650,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-17",
+    "dayName": "Salı",
+    "soup": "Yayla Çorbası",
+    "main": "Balık Tava",
+    "side": "Yeşil Salata",
+    "dessert": "Limonata",
+    "calories": 600,
+    "allergens": ["Balık", "Süt", "Gluten"],
+    "notes": "Balık taze olarak hazırlanmıştır."
+  },
+  {
+    "date": "2026-02-18",
+    "dayName": "Çarşamba",
+    "soup": "Domates Çorbası",
+    "main": "Et Sote",
+    "side": "Makarna",
+    "dessert": "Kazandibi",
+    "calories": 800,
+    "allergens": ["Süt", "Gluten", "Yumurta"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-19",
+    "dayName": "Perşembe",
+    "soup": "Toyga Çorbası",
+    "main": "Tavuk Şiş",
+    "side": "Bulgur Pilavı",
+    "dessert": "Mevsim Meyveleri",
+    "calories": 670,
+    "allergens": ["Süt", "Gluten"],
+    "notes": "Tavuk şiş ızgara edilmiştir."
+  },
+  {
+    "date": "2026-02-20",
+    "dayName": "Cuma",
+    "soup": "Düğün Çorbası",
+    "main": "Tavuk Kapama",
+    "side": "Nohut",
+    "dessert": "Revani",
+    "calories": 780,
+    "allergens": ["Süt", "Gluten", "Yumurta", "Fındık"],
+    "notes": "Revani fındık ile süslenmiştir."
+  },
+  {
+    "date": "2026-02-21",
+    "dayName": "Cumartesi",
+    "soup": "Sebze Çorbası",
+    "main": "Mantı",
+    "side": "Yoğurt",
+    "dessert": "Komposto",
+    "calories": 690,
+    "allergens": ["Süt", "Gluten"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-22",
+    "dayName": "Pazar",
+    "soup": "Kremalı Mantar Çorbası",
+    "main": "Fırında Tavuk Baget",
+    "side": "Pirinç Pilavı",
+    "dessert": "Şekerpare",
+    "calories": 730,
+    "allergens": ["Süt", "Gluten", "Yumurta"],
+    "notes": "Şekerpare ılık şerbetlidir."
+  },
+  {
+    "date": "2026-02-23",
+    "dayName": "Pazartesi",
+    "soup": "Brokoli Çorbası",
+    "main": "Kıymalı Ispanak",
+    "side": "Yoğurt",
+    "dessert": "Muz",
+    "calories": 640,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-24",
+    "dayName": "Salı",
+    "soup": "Mercimek Çorbası",
+    "main": "Nohutlu Tavuk",
+    "side": "Arpa Şehriye Pilavı",
+    "dessert": "İrmik Helvası",
+    "calories": 710,
+    "allergens": ["Gluten", "Süt"],
+    "notes": "Helva tarçınla servis edilir."
+  },
+  {
+    "date": "2026-02-25",
+    "dayName": "Çarşamba",
+    "soup": "Tarhana Çorbası",
+    "main": "Tavuk Sote",
+    "side": "Bulgur Pilavı",
+    "dessert": "Sütlaç",
+    "calories": 680,
+    "allergens": ["Süt", "Gluten"],
+    "notes": "Ana yemek hafif baharatlıdır."
+  },
+  {
+    "date": "2026-02-26",
+    "dayName": "Perşembe",
+    "soup": "Mercimek Çorbası",
+    "main": "Izgara Köfte",
+    "side": "Patates Kızartması",
+    "dessert": "Ayran",
+    "calories": 750,
+    "allergens": ["Süt"],
+    "notes": null
+  },
+  {
+    "date": "2026-02-27",
+    "dayName": "Cuma",
+    "soup": "Ezogelin Çorbası",
+    "main": "Tavuk Döner",
+    "side": "Pilav",
+    "dessert": "Komposto",
+    "calories": 720,
+    "allergens": ["Gluten"],
+    "notes": "Döner ekstra sosu ile servis edilir."
+  },
+  {
+    "date": "2026-02-28",
+    "dayName": "Cumartesi",
+    "soup": "Sebze Çorbası",
+    "main": "Karnıyarık",
+    "side": "Cacık",
+    "dessert": "Meyve",
+    "calories": 650,
+    "allergens": ["Süt"],
+    "notes": null
+  }
+]
