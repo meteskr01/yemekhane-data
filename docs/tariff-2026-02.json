@@ -1,0 +1,16 @@
+{
+  "month": "2026-02",
+  "title": "Yemek Tarife Ücretleri",
+  "currency": "TRY",
+  "updatedAt": "2026-02-14",
+  "items": [
+    { "key": "student", "label": "Öğrenci", "price": 35.0 },
+    { "key": "academic_staff", "label": "Akademik Personel", "price": 55.0 },
+    { "key": "administrative_staff", "label": "İdari Personel", "price": 60.0 },
+    { "key": "guest", "label": "Misafir", "price": 90.0 }
+  ],
+  "notes": [
+    "Fiyatlara KDV dahildir.",
+    "Tarifeler ay içinde güncellenebilir."
+  ]
+}
