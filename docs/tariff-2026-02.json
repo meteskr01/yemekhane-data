@@ -2,7 +2,7 @@
   "month": "2026-02",
   "title": "Yemek Tarife Ücretleri",
   "currency": "TRY",
-  "updatedAt": "2026-02-14",
+  "updatedAt": "2025-01-09",
   "items": [
     { "key": "ek_gosterge_2800_ve_alti", "label": "2800'e kadar (2800 dahil) ek göstergeli görevlerde bulunanlar", "price": 68.0 },
     { "key": "ek_gosterge_4200_ve_alti", "label": "4200'e kadar (4200 dahil) ek göstergeli görevlerde bulunanlar", "price": 86.0 },
