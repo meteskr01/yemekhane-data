@@ -4,10 +4,14 @@
   "currency": "TRY",
   "updatedAt": "2026-02-14",
   "items": [
-    { "key": "student", "label": "Öğrenci", "price": 35.0 },
-    { "key": "academic_staff", "label": "Akademik Personel", "price": 55.0 },
-    { "key": "administrative_staff", "label": "İdari Personel", "price": 60.0 },
-    { "key": "guest", "label": "Misafir", "price": 90.0 }
+    { "key": "ek_gosterge_2800_ve_alti", "label": "2800'e kadar (2800 dahil) ek göstergeli görevlerde bulunanlar", "price": 68.0 },
+    { "key": "ek_gosterge_4200_ve_alti", "label": "4200'e kadar (4200 dahil) ek göstergeli görevlerde bulunanlar", "price": 86.0 },
+    { "key": "ek_gosterge_5400_ve_alti", "label": "5400'e kadar (5400 dahil) ek göstergeli görevlerde bulunanlar", "price": 119.0 },
+    { "key": "ek_gosterge_5400_ustu", "label": "5400'den daha yüksek ek göstergeli görevlerde bulunanlar", "price": 130.0 },
+    { "key": "misafir", "label": "Misafir", "price": 235.0 },
+    { "key": "sozlesmeli", "label": "Sözleşmeli", "price": 157.0 },
+    { "key": "ogrenci", "label": "Öğrenci", "price": 30.0 },
+    { "key": "ogrenci_2_cekim", "label": "Öğrenci 2. Çekim", "price": 100.0 }
   ],
   "notes": [
     "Fiyatlara KDV dahildir.",
